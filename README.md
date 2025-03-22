@@ -1,1 +1,2 @@
 # aac_TESS
+Here i have anaylized the light curve of HD 31901, a Delta Scuti star, using TESS (Transiting Exoplanet Survey Satellite) data and the Lightkurve Python package. HD 31901 is a pulsating variable star belonging to the Delta Scuti class, characterized by short-period oscillations caused by internal stellar pulsations. These stars are crucial for studying stellar structure and evolution. The objective is to study its photometric variations, identify pulsation frequencies, and characterize its variability using time-series analysis.
